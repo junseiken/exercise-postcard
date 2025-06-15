@@ -23,27 +23,8 @@ body {
 	width: 90%;
 	margin: 10px;
 }
-.postcard-body {
-	display: flex;
-}
-.body-left p:first-child {
-	margin-top: 0px;
-}
-.body-left,
-.body-right {
-	padding: 10px;
-}
-input {
-	border: none;
-	border: 2px;
-}
-p {
-	font-size: medium;
+.postcard-body { 
+    display: flex;
 }
 .postcard-footer {
-	text-align: center;
-}
-button {
-	background-color: skyblue;
-	padding: 3px;
 }
